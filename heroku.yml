@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /TOM/Dockerfile
+run:
+   worker: npm start
